@@ -60,6 +60,7 @@ SEQ_INFO:  # seq_name: seq_length
   'range-yolov8-ocsort': 384
   'range-yolov8-bytetrack_275': 276
   'range-yolov8-ocsort_275': 276
+  'gt_predfict_ocsort': 276
 
 # CLASS configs
 CLASS_NAME_TO_CLASS_ID:
